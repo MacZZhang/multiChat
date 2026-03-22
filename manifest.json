@@ -1,13 +1,5 @@
 {
   "version": "1.3.0",
   "downloadURL": "https://my.feishu.cn/wiki/DByQw2WHaiHRKBk56VDcc9ZynEc",
-  "detailsURL": "https://example.com/multichat/releases/1.3.0",
-  "currentReleaseNotes": {
-    "zh-Hans": "https://raw.githubusercontent.com/MacZZhang/multiChat/main/current/zh-Hans.md",
-    "en": "https://raw.githubusercontent.com/MacZZhang/multiChat/main/current/en.md"
-  },
-  "latestReleaseNotes": {
-    "zh-Hans": "https://raw.githubusercontent.com/MacZZhang/multiChat/main/releases/1.3.0/zh-Hans.md",
-    "en": "https://raw.githubusercontent.com/MacZZhang/multiChat/main/releases/1.3.0/en.md"
-  }
+  "detailsURL": "https://github.com/MacZZhang/multiChat"
 }
